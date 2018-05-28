@@ -1,0 +1,22 @@
+{
+ "background": {"scripts": ["background.js"]},
+ "browser_action": {
+ "default_icon": "/icons/icon-128.png",
+ "default_title": "Typo3 Open Backend"
+ // "default_popup": "popup.html"
+ },
+ "name": "Typo3 Open Backend",
+ "description": "Adds '/typo3' to current linkk",
+ "homepage_url": "http://github.com/davidbucka",
+ "icons": {
+     "16": "/icons/icon-16.png",
+     "48": "/icons/icon-48.png",
+     "128": "/icons/icon-128.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1",
+ "manifest_version": 2
+}
