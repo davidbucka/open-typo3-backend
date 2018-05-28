@@ -1,9 +1,9 @@
-# Quickly add Typo3 "no_cache=1" to current URL
+# Quickly open Typo3 Backend in new tab
 
 ## Installation
 
 ```
-1. git clone git@github.com:davidbucka/typo3_noCache.git
+1. git clone git@github.com:davidbucka/open-typo3-backend.git
 2. Go to: chrome://extensions
 3. Enable "Developer Mode"
 4. Click "Load unpacked extension..."
@@ -22,7 +22,7 @@
 ##### Code:
 
 MIT License - see
-[the LICENSE file](https://github.com/davidbucka/typo3_noCache/blob/master/LICENSE)
+[the LICENSE file](https://github.com/davidbucka/open-typo3-backend/blob/master/LICENSE)
 
 ##### Icon:
 
