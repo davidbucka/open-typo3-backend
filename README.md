@@ -2,6 +2,10 @@
 
 ## Installation
 
+### Chrome Web Store:
+https://chrome.google.com/webstore/detail/open-typo3-backend-fronte/bmlomclhgpkegmhnbddgkeofmkkieoje
+
+### Manual Installation:
 ```
 1. git clone git@github.com:davidbucka/open-typo3-backend.git
 2. Go to: chrome://extensions
